@@ -1,0 +1,16 @@
+[
+  {
+    "name": "contacts",
+    "path": "/contacts",
+    "component": "/Users/oleg/Desktop/Nuxt/bmw/pages/contacts.vue",
+    "chunkName": "pages/contacts",
+    "_name": "_0562f4c2"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/oleg/Desktop/Nuxt/bmw/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_ebf9131a"
+  }
+]

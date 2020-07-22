@@ -1,0 +1,33 @@
+@import "../fonts/Roboto/stylesheet.css";
+
+body{
+  font-family: $font-main,sans-serif;
+  font-size: 16px;
+  line-height: 1.2;
+  color: $black;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.wrapper {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+  margin: 30px 0;
+}
+
+footer,
+header{
+  padding: 20px;
+  background: $green;
+  color: #fff;
+}

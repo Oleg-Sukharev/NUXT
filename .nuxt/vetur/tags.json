@@ -1,0 +1,32 @@
+{
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "LazyLogo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/wrap/Footer.vue"
+  },
+  "LazyFooter": {
+    "description": "Auto imported from components/wrap/Footer.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/wrap/Header.vue"
+  },
+  "LazyHeader": {
+    "description": "Auto imported from components/wrap/Header.vue"
+  },
+  "Navbar": {
+    "description": "Auto imported from components/wrap/Navbar.vue"
+  },
+  "LazyNavbar": {
+    "description": "Auto imported from components/wrap/Navbar.vue"
+  },
+  "NavbarLi": {
+    "description": "Auto imported from components/wrap/NavbarLi.vue"
+  },
+  "LazyNavbarLi": {
+    "description": "Auto imported from components/wrap/NavbarLi.vue"
+  }
+}
